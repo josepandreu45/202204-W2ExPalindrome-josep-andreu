@@ -1,0 +1,23 @@
+{
+  "name": "202204-w2expalindrome-josep-andreu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ejercicio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josepandreu45/202204-W2ExPalindrome-josep-andreu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josepandreu45/202204-W2ExPalindrome-josep-andreu/issues"
+  },
+  "homepage": "https://github.com/josepandreu45/202204-W2ExPalindrome-josep-andreu#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
